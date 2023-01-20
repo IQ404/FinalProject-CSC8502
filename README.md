@@ -4,6 +4,6 @@ This is the final project I did for the course *CSC8502: Advanced Graphics for G
 
 Here is a screenshot of what the project currently looks like:
 
-<img width="150" height="150" src="https://github.com/IQ404/FinalProject-CSC8502/blob/main/Screenshot.jpg"></a>
+<img src="https://github.com/IQ404/FinalProject-CSC8502/blob/main/Screenshot.jpg"></a>
 
 <ins>Note</ins>: I am planning to seriously polish this project in the near future.
